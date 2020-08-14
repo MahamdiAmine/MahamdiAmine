@@ -1,4 +1,4 @@
-### Hi there, I'm Amine - aka [Frlm][https://mahamdiamine.github.io/] 👋
+### Hi there, I'm Amine - aka [https://mahamdiamine.github.io/][Frlm] 👋
 
 ## I'm a Developer, Engineer and Chess player!
 
