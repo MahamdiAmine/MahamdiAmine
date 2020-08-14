@@ -18,8 +18,6 @@
 
 ---
 
-### Top languages
-
 <details>
   <summary> Github Stats</summary>
 
