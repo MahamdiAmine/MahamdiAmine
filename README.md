@@ -1,4 +1,4 @@
-### Hi there, I'm Amine - aka [https://mahamdiamine.github.io/][Frlm] 👋
+### Hi there, I'm Amine - aka [Frlm](https://mahamdiamine.github.io/) 👋
 
 ## I'm a Developer, Engineer and Chess player!
 
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Frlm.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://mahamdiamine.github.io/]
-[<img align="left" alt="Frlm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/MahamdiAmine]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/mohammed-mahamdi-b018b51b2]
+[<img align="left" alt="Frlm.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mahamdiamine.github.io/)
+[<img align="left" alt="Frlm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MahamdiAmine)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohammed-mahamdi-b018b51b2)
 
 <br />
 
