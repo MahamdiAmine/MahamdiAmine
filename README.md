@@ -24,3 +24,10 @@
   <img align="left" alt="Amine's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MahamdiAmine&show_icons=true&hide_border=true" />
 
 </details>
+<br>
+<br>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamdiAmine)](https://github.com/anuraghazra/github-readme-stats)
+
