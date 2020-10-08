@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Engineer and Chess player!
 
-- 🔭 I’m currently working on a [Detecting Bots on twitter with ML/DL]()!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to for a job.
+- 🔭 I’m currently working on a [Django project]()!
+- 🌱 I’m currently learning ABAP
+- 👯 I’m looking for a job.
 - 🥅 2020 Goals: Contribute more to fast.ai project
 - ⚡ ToDo: Learn Swift
 
