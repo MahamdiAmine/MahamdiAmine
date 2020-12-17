@@ -1,6 +1,6 @@
 ### Hi there, I'm Amine - aka [Frlm](https://mahamdiamine.github.io/) 👋
 
-## I'm a Developer, Engineer and Chess player!
+## I'm a Web Developer, Software Engineer and a Chess player!
 
 - 🔭 I’m currently working on a [Django project]()!
 - 🌱 I’m currently learning ABAP
