@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Django project]()!
 - 🌱 I’m currently learning ABAP
 - 👯 I’m looking for a job.
-- 🥅 2020 Goals: Contribute more to fast.ai project
+- 🥅 2021 Goals: Contribute more to fast.ai project
 - ⚡ ToDo: Learn Swift
 
 ### Connect with me:
