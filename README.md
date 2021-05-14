@@ -2,8 +2,8 @@
 
 ## I'm a Web Developer, Software Engineer and a Chess player!
 
-- 🔭 I’m currently working on a [Django project]()!
-- 🌱 I’m currently learning ABAP
+- 🔭 I’m currently working on a [Flask project]()!
+- 🌱 I’m currently learning Vue 3
 - 🥅 2021 Goals: Contribute more to fast.ai project
 - ⚡ ToDo: Learn Swift
 
