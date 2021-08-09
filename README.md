@@ -1,9 +1,9 @@
 ### Hi there, I'm Amine - aka [Frlm](https://mahamdiamine.github.io/) 👋
 
-## I'm a Web Developer, Software Engineer and a Chess player!
+## I'm a Computer Science Engineer
 
 - 🔭 I’m currently working on a [Flask project]()!
-- 🌱 I’m currently learning Vue 3
+- 🌱 I’m currently learning Ansible
 - 🥅 2021 Goals: Contribute more to fast.ai project
 - ⚡ ToDo: Learn Swift
 
@@ -17,20 +17,14 @@
 
 ---
 
-<details>
   <summary> Github Stats</summary>
 
   <img align="center" alt="Amine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahamdiAmine&show_icons=true&hide_border=true" />
 
-</details>
-
 ---
 
-<details>
   <summary>Top Langs </summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamdiAmine)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 ---
