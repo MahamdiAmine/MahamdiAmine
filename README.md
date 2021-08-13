@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science Engineer
 
-- 🔭 I’m currently working on a [Flask project]()!
-- 🌱 I’m currently learning Ansible
+<!-- - 🔭 I’m currently working on a [Flask project]()! -->
+- 🌱 I’m currently learning Symfony
 - 🥅 2021 Goals: Contribute more to fast.ai project
-- ⚡ ToDo: Learn Swift
+- ⚡ ToDo: Learn Ansible
 
 ### Connect with me:
 
